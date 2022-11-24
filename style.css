@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+#fp{
+text-align:center;
+}
+
+#footers{
+    list-style:none;
+    text-transform:capitalize;
+}
+
+#footers li:hover{
+    text-decoration:underline;
+}
